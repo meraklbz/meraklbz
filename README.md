@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=php,java,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=php,java,go,md&theme=light" />
 </p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
